@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E-Commerce Order Engine
 
 --->Project Overview
@@ -29,3 +30,6 @@ The system is designed using layered architecture:
 1. Open project in Eclipse/IntelliJ
 2. Run `MainApp.java`
 3. Use CLI menu to test features
+=======
+# Sasikiran_Ecommerce_Order_Engine_Hackathon
+>>>>>>> 57e9c791fa6c94eda338de32f98dcbdd6ebdd1f9
